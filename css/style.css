@@ -57,6 +57,13 @@
 /*=== MIXINS ===*/
 /*=== VARIABLES ===*/
 /*=== MEDIA QUERY ===*/
+
+
+/*the code below centers the about us page's list and text. */
+.someRandomText {
+    text-align: center;
+}
+
 * {
   outline: 0;
   margin: 0;
