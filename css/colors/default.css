@@ -65,7 +65,7 @@ a,
 .priceTable .panel .priceCircle h3,
 .priceTable .panel:hover .bodyImageBg .priceCircle h3,
 .countryTabs .nav-tabs > li.pull-right .list-inline li a:hover {
-  color: #ff891e;
+  color: #f00;
 }
 
 .navbar-nav > li > a:hover,
@@ -79,12 +79,13 @@ a,
 .lightHeader .navbar-nav > li > a:hover,
 .darkHeader .navbar-nav > li > a:hover,
 .navbar-fixed-top.lightHeader .navbar-nav > li > a:hover {
-  color: #ff891e !important;
+/*navbar color*/
+  color: #f00 !important;
 }
 
 .searchTour .sbOptions a:hover,
 .bookingDrop .sbOptions a:hover {
-  color: #ff891e !important;
+  color: #f00 !important;
 }
 
 .buttonCustomPrimary,
@@ -117,7 +118,8 @@ a,
 .priceTable .panel:hover .priceCircle,
 .tabsPart .nav-tabs li a:hover,
 .bookingDetails {
-  background-color: #ff891e;
+/*navbar underline background color and buttons*/
+  background-color: #f00;
 }
 
 .buttonTransparent:hover,
@@ -143,8 +145,8 @@ a,
 .notFoundContent .input-group .input-group-addon,
 .comingContent .input-group .input-group-addon,
 .tabsPart .nav-tabs li.active a {
-  background-color: #ff891e;
-  border-color: #ff891e;
+  background-color: #f00;
+  border-color: #f00;
 }
 
 .modal.bookingModal .modal-dialog .modal-content,

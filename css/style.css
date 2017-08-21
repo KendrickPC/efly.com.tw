@@ -1961,11 +1961,11 @@ header {
 
 .navbar-brand {
   float: left;
-  background-image: url("../img/logo.png");
+  background-image: url("../img/newlogo2.png");
   background-position: 15px 19px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("../img/logo.png");
+  background-image: url("../img/newlogo2.png");
   background-position: 15px 19px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2013,7 +2013,7 @@ header {
   }
 }
 .lightHeader .navbar-brand {
-  background-image: url("../img/logo-color-big.png");
+  background-image: url("../img/newlogo1.png");
   background-position: 15px 19px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2931,7 +2931,7 @@ header {
   }
 }
 .navbar-nav > li.active a, .navbar-nav > li.active a:hover {
-  color: #ff891e !important;
+  color: #ffffff !important;
   background-color: transparent !important;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$value)";
   filter: alpha(opacity=1);
@@ -2995,7 +2995,7 @@ header {
 }
 .navbar-nav > li.dropdown.searchBox a .searchIcon {
   padding: 10px 12px;
-  background-color: #ff891e;
+  background-color: pink;
   border-radius: 4px;
   color: #ffffff !important;
 }
@@ -3268,11 +3268,11 @@ header {
 
 .navbar-brand {
   float: left;
-  background-image: url("../img/logo.png");
+  background-image: url("../img/newlogo2.png");
   background-position: 15px 19px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("../img/logo.png");
+  background-image: url("../img/newlogo2.png");
   background-position: 15px 19px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3320,7 +3320,7 @@ header {
   }
 }
 .lightHeader .navbar-brand {
-  background-image: url("../img/logo-color-big.png");
+  background-image: url("../img/newlogo1.png");
   background-position: 15px 19px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3418,7 +3418,7 @@ header {
 .footer {
   width: 100%;
   display: block;
-  background-color: #262a2e;
+  background-color: #323C6D;
   padding: 80px 0;
 }
 
@@ -3601,9 +3601,10 @@ header {
   }
 }
 
+/*very bottom footer color*/
 .copyRight {
   display: block;
-  background-color: #232629;
+  background-color: white;
   padding: 30px 0;
 }
 @media (max-width: 767px) {
