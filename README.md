@@ -6,7 +6,7 @@ Replace the gray color #262a2e with logo blue color #323C6D
 
 Replaced the bottom footer color with #27305a for contrast of the #323C6D color
 
-Replace stock orange color of #ff891e with red 
+Replace stock orange color of #ff891e with red #f00
 
 <!--August 21st, 2017-->
 <!--Need to discuss how to organize the travel packages section. -->
