@@ -24,3 +24,6 @@ For the homepage, keep the picture of the huggers and the rock jumper.
 download google fonts: 
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
+November 12th, 2017
+
+Destination Cities added. Individual hotels for each individual city needs to be added. 
