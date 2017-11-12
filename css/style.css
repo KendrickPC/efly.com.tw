@@ -4764,8 +4764,8 @@ header {
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
+  /*-webkit-transform: rotate(45deg);*/
+  /*transform: rotate(45deg);*/
   font-size: 10px;
   color: #67686a;
   margin-right: 10px;
